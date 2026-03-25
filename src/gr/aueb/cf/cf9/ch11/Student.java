@@ -58,5 +58,6 @@ public class Student {
 
     public static int getStudentsCount() {
         return studentsCount;
+        //id = 0;    // from static we can call only static, no instance
     }
 }
