@@ -14,7 +14,8 @@ public class Main {
         bag.add("orange");
         bag.add("apple");           // No duplicates allowed
 
-        if (bag.contains("apple")) {
+        // Time-complexity O(1)
+        if (bag.contains("apple")) {        // override equals && hashcode
             bag.remove("apple");
         } else {
             System.out.println("Apple not included in the bag.");
