@@ -45,6 +45,11 @@ public class AccountDAOImpl implements IAccountDAO{
     }
 
     @Override
+    public long count() {
+        return 0;
+    }
+
+    @Override
     public boolean isAccountExists(String iban) {
         return accounts.stream()
                 .anyMatch(account -> account.getIban().equals(iban));
