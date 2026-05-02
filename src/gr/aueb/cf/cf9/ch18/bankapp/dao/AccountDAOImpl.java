@@ -46,7 +46,7 @@ public class AccountDAOImpl implements IAccountDAO{
 
     @Override
     public long count() {
-        return 0;
+        return accounts.size();
     }
 
     @Override
