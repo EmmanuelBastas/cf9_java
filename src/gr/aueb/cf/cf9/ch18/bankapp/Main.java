@@ -96,8 +96,6 @@ public class Main {
             } catch (InsufficientBalanceException e) {
                 System.out.println("Insufficient balance.");
             }
-
-            )
         }
 
     }
