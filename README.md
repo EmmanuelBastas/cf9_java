@@ -1,37 +1,39 @@
 # cf9_java
 
-## 📌 Description
-This repository contains my Java exercises and projects completed as part of my programming training.
+# Java Development Learning Repository
 
-It includes implementations of core Java concepts such as:
-- Basic syntax & data types
-- Control flow (if, switch, loops)
-- Methods & recursion
-- Arrays & algorithms (sorting, searching)
-- Strings manipulation
-- Exception handling
-- File I/O (Java IO & NIO)
+This repository contains my learning journey, exercises, and projects related to Java programming, object-oriented programming, databases, and enterprise web development.
 
----
+## 📚 What I Learned
+- Java fundamentals & data types
+- Control structures and structured programming
+- Arrays and String handling
+- Exception handling & file I/O
+- Git & GitHub basics
+- Object-Oriented Programming (OOP)
+- Inheritance, polymorphism, interfaces & abstract classes
+- Nested classes, lambdas & method references
+- Generics & Java Collections Framework
+- Regular Expressions (Regex)
+- Layered architectures
+- Database integration with MySQL, PostgreSQL & JDBC
+- Maven, Gradle, JPA & Hibernate
+- HTTP, TCP/IP networking & REST APIs
+- Enterprise application development with Spring Boot
+- SSR & CSR web applications
+- Docker & Docker Compose deployment
+- RESTful Web Services & Postman testing
 
-## 📂 Structure
-
-The project is organized by chapters:
-
-- `ch1 - ch4`: Fundamentals (variables, conditions, loops)
-- `ch5`: Methods & recursion
-- `ch6`: Arrays & algorithms
-- `ch7`: Strings
-- `ch8`: Exceptions
-- `ch9`: File handling
-- `review`: Practice problems (junior → senior level)
-
----
-
-## 🚀 Technologies
+## 🛠 Technologies
 - Java
-- IntelliJ IDEA
-- Git & GitHub
+- Spring Boot
+- Maven / Gradle
+- Hibernate / JPA
+- MySQL / PostgreSQL
+- JDBC
+- Git / GitHub
+- Docker / Docker Compose
+- Postman
 
 ---
 
